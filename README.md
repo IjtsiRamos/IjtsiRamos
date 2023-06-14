@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ijsi Dzaya Ramos Morales</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🔭 I’m currently working on **Recre-arte**
+- 🔭 I’m currently studying a masters in AI
 
 - 🌱 I’m currently learning **node js and OOP**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ijtsi dzaya ramos morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijtsi dzaya ramos morales" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ijtsi-dzaya-ramos-morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijtsi dzaya ramos morales" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
