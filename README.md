@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently studying a masters in AI
 
-- 🌱 I’m currently learning **node js and OOP**
-
 - 📫 How to reach me **ijtsiramos96@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ijtsi-dzaya-ramos-morales-635090150](www.linkedin.com/in/ijtsi-dzaya-ramos-morales-635090150)
